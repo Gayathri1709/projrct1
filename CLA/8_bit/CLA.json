@@ -1,0 +1,37 @@
+{
+   "creator": "Yosys 0.33 (git sha1 2584903a060)",
+   "invocation": "stat -liberty \"sky130.lib\" -json ",
+   "modules": {
+      "\\carry_lookahead_adder": {
+         "num_wires":         78,
+         "num_wire_bits":     107,
+         "num_pub_wires":     6,
+         "num_pub_wire_bits": 35,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         24,
+         "area":              220.211200,
+         "num_cells_by_type": {
+            "sky130_fd_sc_hd__maj3_1": 8,
+            "sky130_fd_sc_hd__xnor2_1": 16
+         }
+      }
+   },
+      "design": {
+         "num_wires":         78,
+         "num_wire_bits":     107,
+         "num_pub_wires":     6,
+         "num_pub_wire_bits": 35,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         24,
+         "area":              220.211200,
+         "num_cells_by_type": {
+            "sky130_fd_sc_hd__maj3_1": 8,
+            "sky130_fd_sc_hd__xnor2_1": 16
+         }
+      }
+}
+
